@@ -36,11 +36,11 @@ Jump to
 - [Bonus](#bonus)
 
 ```
-🔋 Currently Using
+🔋 Currently Using: Click to see details
 
-💎 Recommended
+💎 Recommended: Click to see details
 
-🔷 Tested
+🔷 Tested: Click to see details
 
 🔶 Swift projects
 
@@ -169,6 +169,7 @@ Projects that are not in English have a flag
 ## Developer
 
 - [Bequest](https://github.com/splinesoft/Bequest): Create and replay HTTP/S requests 🔶
+- [CodeViewEditor-iOS](https://github.com/PunchThrough/CodeViewEditor-iOS): Code editor for iPhone and iPad
 - Codinator: Code editor for iPhone and iPad
   - https://github.com/VWAS/codinator
   - https://itunes.apple.com/app/codinator/id1024671232
@@ -187,6 +188,7 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/octopodium/id1077519133
 - [Review Time](https://github.com/nthegedus/ReviewTime): Shows average review times for iOS and Mac apps 🔶
 - [wat](https://github.com/pj4533/wat): Very simple packet sniffer in Swift 🔶
+- [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor): Rich Text WYSIWYG Editor for iOS with syntax source view
 
 ## Finance
 
@@ -243,8 +245,8 @@ Projects that are not in English have a flag
 - [Dungeon Crawl](https://github.com/CliffsDover/crawl/tree/iOS_Release): A game of dungeon exploration, combat and magic, involving characters of diverse skills
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird 🔶
 - [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life 🔶
-- [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/): Gameboy, Gameboy Color & Gameboy Advance emulator for iOS.🔷💎
-- GBA4iOSv2: Gameboy, Gameboy Color & Gameboy Advance emulator for iOS with controller support, custom skins, uri schemes, and second screen airplay. 🔷💎🔋
+- [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/): Gameboy, Gameboy Color & Gameboy Advance emulator for iOS.🔷[💎](/GBA4iOS)
+- GBA4iOSv2: Gameboy, Gameboy Color & Gameboy Advance emulator for iOS with controller support, custom skins, uri schemes, and second screen airplay. 🔷[💎](/GBA4iOSv2)🔋
   - https://github.com/rileytestut/GBA4iOS-2.0-Beta
   - http://www.gba4iosapp.com/download/
 - [Gorillas](https://github.com/Lyndir/Gorillas): An iPhone (or iPod touch) port of the popular old QBasic game with spunk! 
@@ -257,7 +259,7 @@ Projects that are not in English have a flag
   - https://github.com/whunmr/Mission999
   - https://itunes.apple.com/app/mission-999/id1036686316
 - [Orbit7](https://github.com/Mav3r1ck/Orbit7): iOS Game created in SpriteKit 🔶
-- [Provenance][]: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔷💎🔋
+- [Provenance][]: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔷[💎](/Provenance)🔋
 - Sakura Fly: Action game created in SpriteKit
   - https://github.com/l800891/Sakura-Fly
   - https://itunes.apple.com/app/sakura-fly/id1019023051
