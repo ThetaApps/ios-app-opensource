@@ -230,6 +230,10 @@ Projects that are not in English have a flag
 - Chuck: Throw a ball and catch it. Over and over and over.
   - https://github.com/moowahaha/Chuck
   - https://itunes.apple.com/app/chuck/id1050453297
+- [DeltaEmu](https://bitbucket.org/rileytestut/gba4ios/): Unknown emulator for iOS announced by Riley Testut [@rileytestut](https://twitter.com/rileytestut) in his [GBA4iOS Celebrating 2 Years](https://youtu.be/vOSvWpXydu0) video right [at the end](https://youtu.be/vOSvWpXydu0?t=1m2s)
+  - https://github.com/rileytestut/deltaemu
+  - https://bitbucket.org/rileytestut/deltaemu/
+  - http://www.deltaemu.com/
 - DOOM: Doom Classic for iOS 
   - https://github.com/id-Software/DOOM-iOS
   - https://itunes.apple.com/app/doom-classic/id336347946
@@ -239,7 +243,10 @@ Projects that are not in English have a flag
 - [Dungeon Crawl](https://github.com/CliffsDover/crawl/tree/iOS_Release): A game of dungeon exploration, combat and magic, involving characters of diverse skills
 - [FlappySwift](https://github.com/fullstackio/FlappySwift): Swift implementation of Flappy Bird 🔶
 - [Game Of Life](https://github.com/yonbergman/swift-gameoflife): Conway's Game of Life 🔶
-- [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/): Gameboy, Gameboy Color & Gameboy Advance emulator for iOS.
+- [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/): Gameboy, Gameboy Color & Gameboy Advance emulator for iOS.🔷💎
+- GBA4iOSv2: Gameboy, Gameboy Color & Gameboy Advance emulator for iOS with controller support, custom skins, uri schemes, and second screen airplay. 🔷💎🔋
+  - https://github.com/rileytestut/GBA4iOS-2.0-Beta
+  - http://www.gba4iosapp.com/download/
 - [Gorillas](https://github.com/Lyndir/Gorillas): An iPhone (or iPod touch) port of the popular old QBasic game with spunk! 
 - [GrubbyWorm](https://github.com/gamechina/GrubbyWorm): A simple digital worm game made with iOS 9, SpriteKit, GameplayKit and ReplayKit, written in Swift 2 🔶
 - [littlego](https://github.com/herzbube/littlego): Play the game of Go on the iPhone or iPad
@@ -250,7 +257,7 @@ Projects that are not in English have a flag
   - https://github.com/whunmr/Mission999
   - https://itunes.apple.com/app/mission-999/id1036686316
 - [Orbit7](https://github.com/Mav3r1ck/Orbit7): iOS Game created in SpriteKit 🔶
-- [Provenance][]: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 
+- [Provenance][]: Frontend for multiple emulators, currently supporting Sega Genesis, SNES, NES, GB/GBC, & more 🔷💎🔋
 - Sakura Fly: Action game created in SpriteKit
   - https://github.com/l800891/Sakura-Fly
   - https://itunes.apple.com/app/sakura-fly/id1019023051
@@ -494,10 +501,9 @@ Projects that are not in English have a flag
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App) 🔶 
 - [Furni](https://github.com/twitterdev/furni-ios): Furniture store demo app using Fabric 🔶
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo) 🔶
-- [iOS 7 Sampler](https://github.com/shu223/iOS7-Sampler): Code examples for the new functions in iOS 8
-- [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8 
+- [iOS 7 Sampler](https://github.com/shu223/iOS7-Sampler): Code examples for the new functions in iOS 7
+- [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler): Code examples for the new functions in iOS 8
 - [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler): Code examples for the new functions in iOS 9 🔶
-- [Pulsator](https://github.com/shu223/Pulsator): Pulse animation example 🔶
 - [KnockToReact](https://github.com/MatheusCavalca/KnockToReact): Interact with users just by receiving and recognizing "knocks" in the device
 - [Layer-Parse](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example): This is a Swift sample app that integrates Layer and Atlas with Parse 🔶
 - LayerPlayer: Explore the capabilities of Apple's Core Animation API 🔶
@@ -505,9 +511,11 @@ Projects that are not in English have a flag
   - https://itunes.apple.com/app/layer-player/id949768742
 - [LVMC](https://github.com/falkolab/LVMC-Demo-Alloy-App): Multicolumn ListView helper library for Titanium
 - [Polls](https://github.com/apiaryio/polls-app): iOS Client for Polls API by Apiary 🔶
+- [Pulsator](https://github.com/shu223/Pulsator): Pulse animation example for iOS 🔶
 - [RKGist](https://github.com/RestKit/RKGist): GitHub Gist app using RestKit
 - [Starship](https://github.com/kylef/Starship): A generic API client application for iOS using Hyperdrive 🔶
 - [StateRestorationDemo](https://github.com/shagedorn/StateRestorationDemo): App to demonstrate state preservation and restoration APIs 🔶
+- [WatchOS-2 Sampler](https://github.com/shu223/watchOS-2-Sampler): Code examples for the new functions in WatchOS-2 🔶
 
 ## Security
 
